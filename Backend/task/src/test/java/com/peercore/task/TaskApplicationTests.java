@@ -1,10 +1,10 @@
-package com.peercore.InventoryManagement;
+package com.peercore.task;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InventoryManagementApplicationTests {
+class TaskApplicationTests {
 
 	@Test
 	void contextLoads() {

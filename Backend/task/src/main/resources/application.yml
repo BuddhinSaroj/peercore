@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://buddhinsaroj:saroj680@cluster1.5cemwng.mongodb.net/Inventory?retryWrites=true&w=majority
