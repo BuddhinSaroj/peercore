@@ -1,0 +1,15 @@
+.product-list {
+    margin: 20px;
+}
+
+.product-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: baseline;
+    gap: 20px;
+}
+
+.product-card {
+    width: calc(25% - 20px);
+    margin-bottom: 20px;
+}
